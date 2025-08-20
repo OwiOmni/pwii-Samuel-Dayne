@@ -9,7 +9,7 @@ Antes da instalação *Laravel*, é necessário de outros componentes. Você pre
 
 Também será necessário o *[Node e o NPM](https://nodejs.org/)* ou [*Bundle*](https://bun.sh/) para compilar os recursos front-end do seu aplicativo.
 
-Caso não possua instalado, comandos para instalação ⬇️ (Abra no httdocs do XAMP) - Ative Apache e MySQL
+Caso não possua instalado, comandos para instalação ⬇️ (Abra no htdocs do XAMP) - Ative Apache e MySQL
 
 **Comando para Windows PowerShell:**
     
