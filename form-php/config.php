@@ -2,7 +2,7 @@
 
     $dbHost = 'localhost';
     $dbUsername = 'root';
-    $dbPassword = 'UquetitaOMG';
+    $dbPassword = '';
     // corrigido: nome do banco sem backtick extra
     $dbName = 'formulario-samuel';
 
